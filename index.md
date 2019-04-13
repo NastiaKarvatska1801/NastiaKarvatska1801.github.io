@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Основна інформація
 
-You can use the [editor on GitHub](https://github.com/NastiaKarvatska1801/nastia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+|    |            |
+|----------|-------------|
+| Дата народження: |  18 січня 2000 р. |  
+| Рідне місто: | Вінниця  |  
+| Місце перебування: | Львів |  
+| Місце навчання: | ЛНУ ім. Івана Франка |  
+| Факультет: | Факультет міжнародних відносин |  
+| Курс: | другий |   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Контактна інформація
 
-### Markdown
+Email:	nastia.karvatska2368@mail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Створення сайтів засобами HTML
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NastiaKarvatska1801/nastia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Я здобула новий навик – створення сайтів. Сам процес досить складний, проте при багаторазовій практиці можна навчитися швидко і легко створювати сторінки засобами HTML. Також варто зазначити, що цікаво спостерігати за тим, як змінюючи структуру коду, можна змінювати його вигляд. Створення сайту передбачає те, що у його власника є можливість створити щось унікальне.
