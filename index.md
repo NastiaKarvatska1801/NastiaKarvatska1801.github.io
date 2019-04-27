@@ -17,4 +17,4 @@ Email:	nastia.karvatska2368@mail.com
 
 Я здобула новий навик – створення сайтів. Сам процес досить складний, проте при багаторазовій практиці можна навчитися швидко і легко створювати сторінки засобами HTML. Також варто зазначити, що цікаво спостерігати за тим, як змінюючи структуру коду, можна змінювати його вигляд. Створення сайту передбачає те, що у його власника є можливість створити щось унікальне.
 ## Запрошую на подію!
-https://calendar.google.com/event?action=TEMPLATE&tmeid=MmdrazJoaDBhanF2ZG03MW5pZDE5YWpqZDUgbmFzdGlhLmthcnZhdHNrYTIzNjhAbQ&tmsrc=nastia.karvatska2368%40gmail.com
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MmdrazJoaDBhanF2ZG03MW5pZDE5YWpqZDUgbmFzdGlhLmthcnZhdHNrYTIzNjhAbQ&amp;tmsrc=nastia.karvatska2368%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_ru.gif"></a>
